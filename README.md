@@ -32,10 +32,18 @@ No streaming catalog or cloud library is required. Scan your device and start pl
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/home.png" width="170">
-  <img src="screenshots/clips.png" width="170"><br>
-  <img src="screenshots/music.png" width="170">
-  <img src="screenshots/settings.png" width="170">
+
+<table>
+  <tr>
+    <td><img src="screenshots/home.png" width="160" height="300"></td>
+    <td><img src="screenshots/clips.png" width="160" height="300"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/music.png" width="160" height="300"></td>
+    <td><img src="screenshots/settings.png" width="160" height="300"></td>
+  </tr>
+</table>
+
 </div>
 
 ## 🚀 Installation

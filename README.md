@@ -1,35 +1,59 @@
-# 🌌 Galaxy Play
+# Galaxy Play
 
-> **Pure Offline Media Player for Android**
+> Pure Offline Media Player for Android
 
-A clean, modern and privacy-focused Android media player built for your local music and video collection.
+Galaxy Play is a clean, modern and privacy-focused Android media player built for your local music and video collection. No streaming catalog, account or cloud library is required.
 
-## ✨ Features
+## What's New
 
-- 🎵 Local music library
-- 👤 Artists & albums
-- 📁 Folders & playlists
-- 🎬 Offline video / Clips library
-- 🔎 Local media search
-- ❤️ Favorites
-- 🔄 Storage scanning & media indexing
-- 🎧 Background playback
-- 🔔 Media notifications
-- 🔉 Audio focus & ducking
-- ⏯️ Save playback progress
-- ⏩ Video playback speed
-- 😴 Sleep timer
-- 🌑 AMOLED-focused dark UI
+### Media Tools
 
-## 🔒 Offline First
+- Create GIFs from any part of a video.
+- Take screenshots from videos while playing.
+- Share music and videos directly.
+- Pin your favorite songs for quick access.
+- Mark newly added songs with a customizable **New** label.
+- Enable or disable the New label anytime.
+- Choose how long the New label stays visible, such as 1 hour, 7 hours, or other custom durations.
 
-Galaxy Play is built around your **local media**.
+### Music & Playback
 
-No streaming catalog or cloud library is required. Scan your device and start playing.
+- Local music library
+- Artists and albums
+- Artist images
+- Folders and playlists
+- Background playback
+- Media notifications
+- Audio focus and ducking
+- Save playback progress
+- Video playback speed
+- Sleep timer
+- Favorites
+- Local media search
 
-> 🎧 **Your media. Your device. Your player.**
+### Video
 
-## 📱 Screenshots
+- Offline video and Clips library
+- Video search
+- Screenshot capture
+- GIF creation
+- Video sharing
+- Playback speed control
+- Local video playback
+
+## Interface
+
+Galaxy Play uses a minimal AMOLED-focused interface with a clean navigation system, dark surfaces, rounded components and a simple media-first layout.
+
+## Offline First
+
+Galaxy Play is designed around your local media.
+
+Scan your device, organize your music and videos, and play them directly without requiring a streaming service or cloud library.
+
+Your media stays on your device.
+
+## Screenshots
 
 <div align="center">
 
@@ -46,76 +70,17 @@ No streaming catalog or cloud library is required. Scan your device and start pl
 
 </div>
 
-## 🚀 Installation
+## Installation
 
-1. Download the latest APK from **Releases**.
+1. Download the latest APK from the Releases section.
 2. Install Galaxy Play.
 3. Grant the required media permissions.
-4. Tap **Scan Storage**.
-5. Start playing your local media. 🎧
+4. Scan your device storage.
+5. Start playing your local media.
 
-## 🛠️ Development
+## Development
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/skykoderhere/GalaxyPlay.git
-```
-
-Open the project in Android Studio, sync the project and build.
-
-## 🤝 Contributing
-
-Contributions are welcome! 🚀
-
-Fork the repository, create a branch, make your changes, test them and submit a Pull Request.
-
-Bug reports and feature requests can be submitted through GitHub Issues.
-
-## 📦 Release
-
-v1.0.0 — Initial Release
-
-🎵 Local music library
-
-🎬 Offline video library
-
-🔎 Search & filtering
-
-🔄 Media scanning
-
-🎧 Background playback
-
-🔔 Media notifications
-
-⏯️ Playback progress
-
-⏩ Playback speed
-
-😴 Sleep timer
-
-🌑 AMOLED UI
-
-
-## 👨‍💻 Credits
-
-Developer: @askxtylishh
-
-Contributor: @skykoderhere
-
-## 📄 License
-
-This project is licensed under the terms specified in the LICENSE file.
-
-See the LICENSE file for complete details.
-
-
----
-
-## 🌌 Galaxy Play
-
-Pure Offline Player
-
-🎵 Your Music • 🎬 Your Videos • 📱 Your Device
-
-⭐ If you like Galaxy Play, consider starring the repository.
